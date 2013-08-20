@@ -15,6 +15,7 @@ int main(void)
 {
 	puts("Hello World\n"); /* prints Hello World */
 	printf("This is just a test of printf %d\n", 1.2); /* prints whatever is written between quotes :D */
+	printf("Fuck the PHP habit of typing print_r\n");
 
 	return EXIT_SUCCESS;
 }
